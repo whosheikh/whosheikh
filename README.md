@@ -1,7 +1,7 @@
 # Likhon Sheikh
 
 <div align="center">
-  <img src="https://sheikh.codes/profile-image.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
+  <img src="https://public.bnbstatic.com/image/pgc/202311/534707992a2382225ce8b11b3e7bcb72.png" alt="Profile Image" width="200" style="border-radius: 50%;" />
   
   [![GitHub](https://img.shields.io/badge/GitHub-sheikhcodes-181717?style=flat&logo=github)](https://github.com/sheikhcodes)
   [![GitLab](https://img.shields.io/badge/GitLab-sheikhcodes-FC6D26?style=flat&logo=gitlab)](https://gitlab.com/sheikhcodes)
